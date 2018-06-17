@@ -1,0 +1,20 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:fbutton="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="top|center"
+    android:orientation="vertical"
+	android:id="@+id/mainScroll"
+    >
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		xmlns:fbutton="http://schemas.android.com/apk/res-auto"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:gravity="top|center"
+		android:orientation="vertical"
+		android:id="@+id/mainLayout"
+		>
+	
+	
+</LinearLayout>
+</ScrollView>
