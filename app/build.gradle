@@ -20,7 +20,7 @@ android {
 }
 dependencies {
 	compile fileTree(dir: 'libs', include: ['*.jar'])
-	compile 'thereisnospon.codeview:codeview:0.3.1'
+	compile 'thereisnospon.codeview:codeview:0.3.2'
 	testCompile 'junit:junit:4.12'
 	compile 'org.jsoup:jsoup:1.9.2'
 	compile 'com.oguzdev:CircularFloatingActionMenu:1.0.2'
