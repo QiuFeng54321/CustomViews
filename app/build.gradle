@@ -27,6 +27,6 @@ dependencies {
 	compile 'com.amulyakhare:com.amulyakhare.textdrawable:1.0.1'
 	compile 'info.hoang8f:fbutton:1.0.5'
 	testCompile 'com.thefinestartist:finestwebview:1.0.6'
-	compile 'com.github.ybq:Android-SpinKit:1.1.0'
+	compile 'com.github.ybq:Android-SpinKit:1.4.0'
 	compile 'com.github.mrengineer13:snackbar:1.2.0'
 }
